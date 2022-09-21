@@ -7,6 +7,8 @@
 ### [Project Description](doc/)
 **Term: Fall 2022**
 
++ This project is conducted by Fu Wang
+
 This is an individual project, and it will mainly focus on three different parts:
 
 1. Visualization 
@@ -33,8 +35,3 @@ For each categorical variable (title, author, school) we will focus on the top 1
 
 
 
-
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
-
-+ Project summary: 
