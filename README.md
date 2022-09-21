@@ -2,27 +2,39 @@
 ## Fall 2022
 ## Project 1: A "data story" on the history of philosophy
 
-<img src="figs/100126-the-glass.jpeg" width="500">
+<img src="figs/output_14_2.png" width="700" height="400">
 
 ### [Project Description](doc/)
-This is the first and only *individual* (as opposed to *team*) project this semester. 
+**Term: Fall 2022**
 
-Term: Fall 2022
+This is an individual project, and it will mainly focus on three different parts:
+
+1. Visualization 
+2. WordCloud
+3. LDA Topic Moedling
+
+---
+For each categorical variable (title, author, school) we will focus on the top 10 most frequent values
+
+**Visualization**
++ Top 10 most frequent values and how many times they have appeared in the dataset
++ Year distribution of the original published data and corpus edited date
++ Distribution of sentence length
++ BoxenPlot of sentence length corresponding to each top 10 categorical values
+
+
+**WordCloud**
++ Using WordCloud to show which words are the most frequent among the given text corresponding to each top 10 categorical values (title, author, school)
+
+**LDA Topic Moedling**
+
++ 
+
+
+
+
 
 + Projec title: Lorem ipsum dolor sit amet
 + This project is conducted by [your name]
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
-
-```
-proj/
-├── lib/
-├── data/
-├── doc/
-├── figs/
-└── output/
-```
-
-Please see each subfolder for a README file.
++ Project summary: 
