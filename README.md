@@ -2,7 +2,7 @@
 ## Fall 2022
 ## Project 1: A "data story" on the philosophy school
 
-<img src="figs/output_14_2.png" width="700" height="400">
+<img src="output/output_14_2.png" width="700" height="400">
 
 ### [Project Description](doc/)
 **Term: Fall 2022**
