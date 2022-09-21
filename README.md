@@ -16,7 +16,7 @@ This is an individual project, and it will mainly focus on three different parts
 3. LDA Topic Moedling
 
 ---
-For each categorical variable (title, author, school) we will focus on the top 10 most frequent values
+**For each categorical variable (title, author, school) we will focus on the top 10 most frequent values**
 
 **Visualization**
 + Top 10 most frequent values and how many times they have appeared in the dataset
