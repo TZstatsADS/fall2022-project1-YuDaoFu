@@ -1,6 +1,6 @@
 # Applied Data Science @ Columbia
 ## Fall 2022
-## Project 1: A "data story" on the history of philosophy
+## Project 1: A "data story" on the philosophy school
 
 <img src="figs/output_14_2.png" width="700" height="400">
 
@@ -28,7 +28,7 @@ For each categorical variable (title, author, school) we will focus on the top 1
 
 **LDA Topic Moedling**
 
-+ 
++ Finding reasonably accurate mixtures of philosophy school within a given document
 
 
 
